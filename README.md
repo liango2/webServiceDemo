@@ -1,2 +1,2 @@
 # webServiceDemo 
-IntelliJ об axis web service ╣д©╙╥╒
+IntelliJ Д╦▀ axis web service Г └Е╪─Е▐▒
